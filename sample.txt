@@ -1,0 +1,4 @@
+Hello this is a test
+Hello now happens twice
+Double  space
+caps CAPS
